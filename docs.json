@@ -14,11 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Representative List",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           }
         ]
